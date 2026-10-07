@@ -1,4 +1,4 @@
-# NLP & Transformer Projects
+# LLM, NLP & Transformer Projects
 
 A collection of Natural Language Processing (NLP) projects built while learning and working with **Transformers, BERT, XLNet, Hugging Face, PyTorch, and LLM-based applications**.
 
